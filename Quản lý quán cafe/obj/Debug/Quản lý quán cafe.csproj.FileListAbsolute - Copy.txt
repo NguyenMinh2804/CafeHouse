@@ -1,0 +1,13 @@
+C:\Users\NguyenMinh\source\repos\Quản lý quán cafe\bin\Debug\Quản lý quán cafe.exe.config
+C:\Users\NguyenMinh\source\repos\Quản lý quán cafe\bin\Debug\Quản lý quán cafe.exe
+C:\Users\NguyenMinh\source\repos\Quản lý quán cafe\bin\Debug\Quản lý quán cafe.pdb
+C:\Users\NguyenMinh\source\repos\Quản lý quán cafe\obj\Debug\Quản lý quán cafe.csprojResolveAssemblyReference.cache
+C:\Users\NguyenMinh\source\repos\Quản lý quán cafe\obj\Debug\Quản_lý_quán_cafe.flogin.resources
+C:\Users\NguyenMinh\source\repos\Quản lý quán cafe\obj\Debug\Quản_lý_quán_cafe.Properties.Resources.resources
+C:\Users\NguyenMinh\source\repos\Quản lý quán cafe\obj\Debug\Quản lý quán cafe.csproj.GenerateResource.Cache
+C:\Users\NguyenMinh\source\repos\Quản lý quán cafe\obj\Debug\Quản lý quán cafe.csproj.CoreCompileInputs.cache
+C:\Users\NguyenMinh\source\repos\Quản lý quán cafe\obj\Debug\Quản lý quán cafe.exe
+C:\Users\NguyenMinh\source\repos\Quản lý quán cafe\obj\Debug\Quản lý quán cafe.pdb
+C:\Users\NguyenMinh\source\repos\Quản lý quán cafe\obj\Debug\Quản_lý_quán_cafe.Form2.resources
+C:\Users\NguyenMinh\source\repos\Quản lý quán cafe\obj\Debug\Quản_lý_quán_cafe.thongtintaikhoan.resources
+C:\Users\NguyenMinh\source\repos\Quản lý quán cafe\obj\Debug\Quản_lý_quán_cafe.thongtinadmin.resources
